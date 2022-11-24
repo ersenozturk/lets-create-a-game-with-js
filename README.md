@@ -1,1 +1,1 @@
-This repo was created to have fun with javascript.
+This repo was created with no regard for styling, for the purpose of having fun with javascript.
